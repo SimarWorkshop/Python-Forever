@@ -1,14 +1,6 @@
-
-append() 
-
-extend()
-
-
+append() extend()
 generator -> yeild
-
 == checks equality and is checks identity(same memory location)
-
-
 Decorators
 lambda function
 *args **kwargs
@@ -19,7 +11,7 @@ global modifies a global variable inside a function
 break, continue, pass
 zip() - zip([1,2], ['a','b']) yields (1,'a'), (2,'b')
 
-
+datatypes - int, float, str, list, tuple, dict, set, bool, NoneType
 __str__ | __repr__ [user friendly string and dev friendly string for debugging]
 
 with - file handling
